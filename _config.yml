@@ -1,0 +1,57 @@
+title: eHealth
+description: Practical, faith-based guides for healthy living, including a healthy digital life
+author: Jonathan Brauer
+email: jonbrauer2@gmail.com
+baseurl: "/ehealth"
+url: "https://jonbrauer2.github.io"
+
+# Build settings
+markdown: kramdown
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+  - jekyll-relative-links
+  - jekyll-optional-front-matter
+  - jekyll-readme-index
+  - jekyll-titles-from-headings
+
+# Guide pages are plain Markdown with no front matter (so they also read well
+# on github.com). These defaults turn them into minima pages: the first "# "
+# heading becomes the page title and is stripped from the body so it isn't
+# shown twice, and *.md links are rewritten to the built pages.
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: page
+
+titles_from_headings:
+  enabled: true
+  strip_title: true
+
+relative_links:
+  enabled: true
+  collections: false
+
+# Navigation
+# remote_theme minima (master) reads `minima.nav_pages`, not `header_pages`.
+minima:
+  nav_pages:
+    - clean-your-feed/README.md
+    - clean-your-feed/PRINCIPLES.md
+
+# Analytics: minima injects GA4 when jekyll.environment == 'production'
+# (shared property with ezra-blog).
+google_analytics: G-3H2N7J6BGD
+
+# Files excluded from the build. The root README.md is for github.com only;
+# index.md is the site home page.
+exclude:
+  - CLAUDE.md
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor/
+  - .ai/

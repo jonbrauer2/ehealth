@@ -1,3 +1,9 @@
 .ai/
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+Gemfile.lock
+vendor/
 Thumbs.db
 .DS_Store
