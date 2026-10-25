@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" role="img" aria-label="TikTok Filter keywords screen with Add keywords highlighted">
+  <style>.t{font:15px 'Segoe UI',Roboto,Arial,sans-serif;fill:#222}.s{font:12px 'Segoe UI',Roboto,Arial,sans-serif;fill:#666}.h{font:600 20px 'Segoe UI',Roboto,Arial,sans-serif;fill:#111}.hl{fill:none;stroke:#E53935;stroke-width:3}.c{fill:#E53935}.cn{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle}.cap{font:italic 11px Arial,sans-serif;fill:#999;text-anchor:middle}.btn{font:600 15px 'Segoe UI',Roboto,Arial,sans-serif;fill:#fff;text-anchor:middle}</style>
+  <rect x="4" y="4" width="352" height="632" rx="38" fill="#1b1b1b"/>
+  <rect x="14" y="14" width="332" height="612" rx="30" fill="#fff"/>
+  <rect x="145" y="22" width="70" height="16" rx="8" fill="#1b1b1b"/>
+  <text class="h" x="32" y="78">‹  Filter keywords</text>
+  <text class="s" x="32" y="114">Videos with these words or hashtags</text>
+  <text class="s" x="32" y="130">won't show in your feeds.</text>
+  <text class="t" x="32" y="180">gossip</text><text class="s" x="200" y="180">For You · Following</text>
+  <text class="t" x="32" y="224">#prank</text><text class="s" x="200" y="224">For You · Following</text>
+  <text class="t" x="32" y="268">rage bait</text><text class="s" x="200" y="268">For You</text>
+  <line x1="32" y1="292" x2="328" y2="292" stroke="#e0e0e0"/>
+  <rect x="32" y="510" width="296" height="46" rx="6" fill="#FE2C55"/>
+  <text class="btn" x="180" y="539">+  Add keywords</text>
+  <rect x="26" y="504" width="308" height="58" rx="10" class="hl"/>
+  <circle class="c" cx="326" cy="504" r="13"/><text class="cn" x="326" y="509">1</text>
+  <text class="cap" x="180" y="612">Illustration – your screen may look a little different</text>
+</svg>

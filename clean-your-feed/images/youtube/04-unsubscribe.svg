@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" role="img" aria-label="YouTube manage subscriptions list with an Unsubscribe button highlighted">
+  <style>.t{font:15px 'Segoe UI',Roboto,Arial,sans-serif;fill:#222}.s{font:12px 'Segoe UI',Roboto,Arial,sans-serif;fill:#666}.h{font:600 20px 'Segoe UI',Roboto,Arial,sans-serif;fill:#111}.hl{fill:none;stroke:#E53935;stroke-width:3}.c{fill:#E53935}.cn{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle}.cap{font:italic 11px Arial,sans-serif;fill:#999;text-anchor:middle}.btn{font:600 13px 'Segoe UI',Roboto,Arial,sans-serif;fill:#fff;text-anchor:middle}</style>
+  <rect x="4" y="4" width="352" height="632" rx="38" fill="#1b1b1b"/>
+  <rect x="14" y="14" width="332" height="612" rx="30" fill="#fff"/>
+  <rect x="145" y="22" width="70" height="16" rx="8" fill="#1b1b1b"/>
+  <text class="h" x="32" y="78">‹  All subscriptions</text>
+  <text class="t" x="286" y="112" style="fill:#065FD4;font-weight:600">Manage</text>
+  <rect x="276" y="92" width="66" height="30" rx="8" class="hl"/>
+  <circle class="c" cx="276" cy="92" r="13"/><text class="cn" x="276" y="97">1</text>
+  <circle cx="52" cy="160" r="20" fill="#A5D6A7"/><text class="t" x="84" y="165">Encouraging Channel</text><text class="s" x="300" y="165">🔔</text>
+  <circle cx="52" cy="216" r="20" fill="#CE93D8"/><text class="t" x="84" y="221">Learning Channel</text><text class="s" x="300" y="221">🔔</text>
+  <rect x="14" y="248" width="332" height="56" fill="#fdecea"/>
+  <circle cx="52" cy="276" r="20" fill="#EF9A9A"/><text class="t" x="84" y="281">Drama Channel</text>
+  <rect x="240" y="258" width="98" height="36" fill="#E53935"/><text class="btn" x="289" y="281">Unsubscribe</text>
+  <rect x="236" y="254" width="106" height="44" rx="6" class="hl" style="stroke:#B71C1C"/>
+  <circle class="c" cx="236" cy="254" r="13" style="fill:#B71C1C"/><text class="cn" x="236" y="259">2</text>
+  <text class="s" x="84" y="318" style="fill:#B71C1C">← swipe left on a channel</text>
+  <circle cx="52" cy="360" r="20" fill="#FFE082"/><text class="t" x="84" y="365">Family Channel</text><text class="s" x="300" y="365">🔔</text>
+  <circle cx="52" cy="416" r="20" fill="#80DEEA"/><text class="t" x="84" y="421">Health Channel</text><text class="s" x="300" y="421">🔔</text>
+  <circle cx="52" cy="472" r="20" fill="#FFAB91"/><text class="t" x="84" y="477">Outrage Channel</text><text class="s" x="300" y="477">🔔</text>
+  <text class="cap" x="180" y="612">Illustration – your screen may look a little different</text>
+</svg>

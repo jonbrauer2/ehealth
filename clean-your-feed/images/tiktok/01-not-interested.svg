@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" role="img" aria-label="TikTok long-press menu with Not interested highlighted">
+  <style>.t{font:15px 'Segoe UI',Roboto,Arial,sans-serif;fill:#222}.s{font:12px 'Segoe UI',Roboto,Arial,sans-serif;fill:#666}.h{font:600 20px 'Segoe UI',Roboto,Arial,sans-serif;fill:#111}.hl{fill:none;stroke:#E53935;stroke-width:3}.c{fill:#E53935}.cn{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle}.cap{font:italic 11px Arial,sans-serif;fill:#999;text-anchor:middle}.w{font:600 14px 'Segoe UI',Roboto,Arial,sans-serif;fill:#fff}</style>
+  <rect x="4" y="4" width="352" height="632" rx="38" fill="#1b1b1b"/>
+  <rect x="14" y="14" width="332" height="612" rx="30" fill="#263238"/>
+  <rect x="145" y="22" width="70" height="16" rx="8" fill="#1b1b1b"/>
+  <text class="w" x="110" y="74" style="fill:#aaa">Following</text><text class="w" x="196" y="74">For You</text>
+  <text class="w" x="32" y="250" style="font-size:13px">Press and hold anywhere on the video</text>
+  <circle cx="180" cy="200" r="26" fill="none" stroke="#fff" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle class="c" cx="210" cy="172" r="13"/><text class="cn" x="210" y="177">1</text>
+  <rect x="14" y="300" width="332" height="326" rx="22" fill="#fff"/>
+  <rect x="160" y="310" width="40" height="5" rx="2.5" fill="#ccc"/>
+  <text class="t" x="40" y="356">⬇  Save video</text>
+  <text class="t" x="40" y="398">⏩  Speed</text>
+  <text class="t" x="40" y="440">CC  Captions</text>
+  <text class="t" x="40" y="482">💔  Not interested</text>
+  <rect x="26" y="462" width="300" height="30" rx="8" class="hl"/>
+  <circle class="c" cx="320" cy="462" r="13"/><text class="cn" x="320" y="467">2</text>
+  <text class="t" x="40" y="524">⚑  Report</text>
+  <text class="s" x="40" y="566">Tip: tap “Not interested” → “Details” to</text>
+  <text class="s" x="40" y="582">also hide that creator or sound.</text>
+  <text class="cap" x="180" y="612">Illustration – your screen may look a little different</text>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 640" role="img" aria-label="Instagram suggested post menu with Not interested highlighted">
+  <style>.t{font:15px 'Segoe UI',Roboto,Arial,sans-serif;fill:#222}.s{font:12px 'Segoe UI',Roboto,Arial,sans-serif;fill:#666}.h{font:600 20px 'Segoe UI',Roboto,Arial,sans-serif;fill:#111}.hl{fill:none;stroke:#E53935;stroke-width:3}.c{fill:#E53935}.cn{font:700 14px Arial,sans-serif;fill:#fff;text-anchor:middle}.cap{font:italic 11px Arial,sans-serif;fill:#999;text-anchor:middle}</style>
+  <rect x="4" y="4" width="352" height="632" rx="38" fill="#1b1b1b"/>
+  <rect x="14" y="14" width="332" height="612" rx="30" fill="#fff"/>
+  <rect x="145" y="22" width="70" height="16" rx="8" fill="#1b1b1b"/>
+  <text class="h" x="32" y="78" style="font-family:'Brush Script MT',cursive;font-size:26px">Instagram</text>
+  <circle cx="44" cy="118" r="14" fill="#FFCC80"/>
+  <text class="t" x="66" y="114" style="font-weight:600">suggestedaccount</text>
+  <text class="s" x="66" y="130">Suggested for you</text>
+  <text class="h" x="308" y="122">⋯</text>
+  <rect x="300" y="100" width="36" height="30" rx="8" class="hl"/>
+  <circle class="c" cx="300" cy="100" r="13"/><text class="cn" x="300" y="105">1</text>
+  <rect x="14" y="142" width="332" height="250" fill="#b0bec5"/>
+  <rect x="14" y="14" width="332" height="612" rx="30" fill="#000" opacity=".45"/>
+  <rect x="14" y="340" width="332" height="286" rx="22" fill="#fff"/>
+  <rect x="160" y="350" width="40" height="5" rx="2.5" fill="#ccc"/>
+  <text class="t" x="40" y="392">Save</text>
+  <text class="t" x="40" y="432">Follow</text>
+  <text class="t" x="40" y="472">⊘  Not interested</text>
+  <rect x="26" y="452" width="300" height="30" rx="8" class="hl"/>
+  <circle class="c" cx="320" cy="452" r="13"/><text class="cn" x="320" y="457">2</text>
+  <text class="t" x="40" y="512">ⓘ  Why you're seeing this post</text>
+  <text class="t" x="40" y="552" style="fill:#d32f2f">Report</text>
+  <text class="cap" x="180" y="612">Illustration – your screen may look a little different</text>
+</svg>
