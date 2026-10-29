@@ -19,10 +19,15 @@ The good news is that you can **retrain** your feed. This guide pairs biblical p
 
 | Platform | What you'll do | Guide |
 |---|---|---|
-| [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto)](guides/youtube.md) | Clear or pause watch history, "Not interested", "Don't recommend channel", unsubscribe, set break reminders | [guides/youtube.md](guides/youtube.md) |
-| [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto)](guides/instagram.md) | Mute or unfollow, "Not interested", reset suggested content, sensitive content, daily limit | [guides/instagram.md](guides/instagram.md) |
-| [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto)](guides/facebook.md) | "Not interested", snooze, unfollow, feed preferences, time reminders | [guides/facebook.md](guides/facebook.md) |
-| [![TikTok](https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoSize=auto)](guides/tiktok.md) | "Not interested", refresh your For You feed, filter keywords, screen time limits | [guides/tiktok.md](guides/tiktok.md) |
+| [<img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&logoSize=auto" alt="YouTube" height="28" style="max-width:none">][youtube] | Clear or pause watch history, "Not interested", "Don't recommend channel", unsubscribe, set break reminders | [guides/youtube.md][youtube] |
+| [<img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&logoSize=auto" alt="Instagram" height="28" style="max-width:none">][instagram] | Mute or unfollow, "Not interested", reset suggested content, sensitive content, daily limit | [guides/instagram.md][instagram] |
+| [<img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white&logoSize=auto" alt="Facebook" height="28" style="max-width:none">][facebook] | "Not interested", snooze, unfollow, feed preferences, time reminders | [guides/facebook.md][facebook] |
+| [<img src="https://img.shields.io/badge/-TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white&logoSize=auto" alt="TikTok" height="28" style="max-width:none">][tiktok] | "Not interested", refresh your For You feed, filter keywords, screen time limits | [guides/tiktok.md][tiktok] |
+
+[youtube]: guides/youtube.md
+[instagram]: guides/instagram.md
+[facebook]: guides/facebook.md
+[tiktok]: guides/tiktok.md
 
 ## The 5 steps (on every platform)
 
