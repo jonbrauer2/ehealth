@@ -26,6 +26,21 @@ defaults:
       path: ""
     values:
       layout: page
+  # Serve the guide pages without ".html" (e.g. /clean-your-feed/guides/youtube),
+  # so the rewritten links don't show the extension either. README.md is left
+  # alone: readme-index serves it as /clean-your-feed/.
+  - scope:
+      path: "clean-your-feed/guides"
+    values:
+      permalink: /:path/:basename
+  - scope:
+      path: "clean-your-feed/PRINCIPLES.md"
+    values:
+      permalink: /:path/:basename
+  - scope:
+      path: "clean-your-feed/SCREENSHOTS.md"
+    values:
+      permalink: /:path/:basename
 
 titles_from_headings:
   enabled: true
